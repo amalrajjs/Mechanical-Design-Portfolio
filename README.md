@@ -60,9 +60,9 @@ This repository showcases my journey in mastering industry-standard design softw
 
 Feel free to connect with me:
 
-- 📧 Email: yourname@email.com  
+- 📧 Email: amalraj.js.007@gmail.com  
 - 🌐 Portfolio: [YourWebsite.com](https://yourwebsite.com)  
-- 🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🔗 GitHub: [github.com/amalrajjs](https://github.com/amalrajjs)
 
 ---
 
